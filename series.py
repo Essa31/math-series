@@ -59,8 +59,8 @@ def lucas(n):
 def sum_series(n, a=0 ):
     #n A decimal integer
     #a = 0 if you want return fibonacci Number or 2 if you want return Lucas Numbers
-    b = 1
 
+    b = 1
     d = 1
     # Check if n is 0
     # then it will return 0

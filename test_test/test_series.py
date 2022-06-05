@@ -28,10 +28,10 @@ def test_sum_series2():
     expected=1
     assert actual == expected
 def test_sum_series3():
-    actual = sum_series(2,2,1)
+    actual = sum_series(2,2)
     expected=3
     assert actual == expected
 def test_sum_series4():
-    actual = sum_series(3,2,1)
+    actual = sum_series(3,2)
     expected=4
     assert actual == expected
